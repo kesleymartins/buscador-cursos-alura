@@ -1,0 +1,12 @@
+{
+    "name": "kesleymartins/buscador-cursos-alura",
+    "description": "Projeto que busca os cursos no site da alura",
+    "type": "library",
+    "authors": [
+        {
+            "name": "kesleymartins",
+            "email": "kesley.martins@vivaldi.net"
+        }
+    ],
+    "require": {}
+}
