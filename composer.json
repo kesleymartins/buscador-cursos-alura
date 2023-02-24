@@ -9,6 +9,7 @@
         }
     ],
     "require": {
-        "guzzlehttp/guzzle": "^7.5"
+        "guzzlehttp/guzzle": "^7.5",
+        "symfony/dom-crawler": "^6.2"
     }
 }
