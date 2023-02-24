@@ -26,10 +26,10 @@ class Finder
         $this->crawler->addHtmlContent($html->__toString());
 
         $courseElements = $this->crawler->filter('span.card-curso__nome');
-        
+
         $courses = [];
 
-        foreach($courseElements as $element) {
+        foreach ($courseElements as $element) {
             $courses[] = $element->textContent;
         }
 
